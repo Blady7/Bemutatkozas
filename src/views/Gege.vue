@@ -1,7 +1,5 @@
 <template>
-  <h1>
-    Gege
-  </h1>
+  
 </template>
 
 <script>

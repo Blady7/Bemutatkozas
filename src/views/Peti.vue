@@ -1,7 +1,5 @@
 <template>
-  <h1>
-    Peti
-  </h1>
+  
 </template>
 
 <script>
